@@ -10,6 +10,10 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 
+<a href="https://drive.google.com/file/d/1XFBZuqjOnyCGNek_6-h1RFtB9aZ8yeGt/view?usp=sharing">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/googledrive.svg" />
+</a>
+
 <br />
 <br />
 
@@ -34,5 +38,4 @@
 - I can work be a good DevOps. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashcslmn&count_private=true&show_icons=true" alt="Ashley" />
-
 
