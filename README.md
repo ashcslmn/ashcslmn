@@ -1,10 +1,5 @@
 ### Hi 👋, I'm Ashley Solomon @ashcslmn.
 
-
-
-<a href="https://twitter.com/ashcslmn">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
 <a href="https://github.com/ashcslmn/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
