@@ -13,6 +13,7 @@
 <br />
 <br />
 
+- Fullstack Dev based in PHL
 - I love everything about web development
 - Making good impact to :earth_asia: by just sitting and coding
 
