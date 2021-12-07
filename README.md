@@ -32,6 +32,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=ashcslmn&count_private=true&show_icons=true" alt="Ashley" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashcslmn&count_private=true&show_icons=true" alt="Ashley" />
 
 
