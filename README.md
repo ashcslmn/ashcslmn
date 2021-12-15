@@ -35,7 +35,7 @@
 
 - Currently working on projects using TALL (Tailwind, Alpine, Livewire, Laravel) stacks
 - Biased to Vue.js
-- I can work be a good DevOps. 
+- I can work as DevOps. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashcslmn&count_private=true&show_icons=true" alt="Ashley" />
 
