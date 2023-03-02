@@ -14,14 +14,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/googledrive.svg" />
 </a>
 
-<br />
-<br />
-
-- Fullstack Dev based in PHL
-- I love everything about web development
-- Making good impact to :earth_asia: by coding
-
-**Languages and Tools:**
+**Technology Stacks**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/laravel.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
