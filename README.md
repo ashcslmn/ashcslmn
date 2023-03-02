@@ -30,5 +30,6 @@ As a full-stack developer, I have a deep understanding of both front-end and bac
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/rubyonrails.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ashcslmn&count_private=true&show_icons=true" alt="Ashley" />
 
