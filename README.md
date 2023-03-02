@@ -19,7 +19,6 @@ Hi there! I'm Ash, a full-stack web developer with a passion for creating innova
 As a full-stack developer, I have a deep understanding of both front-end and back-end development, allowing me to bring a unique perspective to each project. My expertise in PHP and JavaScript allows me to create custom, scalable, and secure web applications that meet the specific needs of my clients.
 
 <br/>
-
 ### Technology Stacks
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/laravel.svg"></code>
