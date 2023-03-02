@@ -1,4 +1,4 @@
-### Hi 👋, I'm Ashley Solomon @ashcslmn.
+## Hi 👋, I'm Ashley Solomon @ashcslmn.
 
 <a href="https://github.com/ashcslmn/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -14,7 +14,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/googledrive.svg" />
 </a>
 
-**Technology Stacks**
+## Technology Stacks
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/laravel.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
