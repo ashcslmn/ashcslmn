@@ -11,11 +11,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashcslmn&count_private=true&show_icons=true" alt="Ashley" />
 
-### Me of code 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashcslmn)](https://github.com/ryo-ma/github-profile-trophy)
 
